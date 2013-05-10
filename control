@@ -1,0 +1,9 @@
+Package: YOUR_UNIQUE_ID
+Name: YOUR_PACKAGE_NAME
+Depends: firmware (>= 6.0)
+Version: YOUR_VERSION
+Architecture: iphoneos-arm
+Description: YOUR_DESCRIPTION
+Maintainer: MAINTAINER_NAME
+Author: AUTHOR_NAME
+Section: Addons (Cydeswitch Toggles)
